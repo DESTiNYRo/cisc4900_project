@@ -27,10 +27,10 @@ I will send over those detail very very soon
 - [x] **Spoke with supervisor** 
     - Talked about how to look for a project to do; data science good practices; etc
 
-- [] **Deployed data visualzaion**
+- [ ] **Deployed data visualzaion**
     - Currently working on this
 
-- [] **Niche Data Science Project**
+- [ ] **Niche Data Science Project**
     - Spending some time thinking about what I want to do with my data science project/whihc direction to do
 
 ### Week 3
