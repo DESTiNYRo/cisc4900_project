@@ -1,3 +1,4 @@
+# CISC 4900 Weekly Updates
 ### Week 1 
 Getting started with the semester 
 - Completed Timelog
