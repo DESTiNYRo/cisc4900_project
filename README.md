@@ -35,6 +35,12 @@ I will send over those detail very very soon
     - Spending some time thinking about what I want to do with my data science project/whihc direction to do
 
 ### Week 3
+A bit behind
+- [ ] **Deployed data visualzaion**
+    - Currently working on this
+
+- [ ] **Niche Data Science Project**
+    - Spending some time thinking about what I want to do with my data science project/whihc direction to do
 
 In progress...
 - Completed CTP assignemnts, still finalizing what I want to do 
