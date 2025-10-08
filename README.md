@@ -1,7 +1,7 @@
 # CISC 4900 Weekly Updates
 
 **Supervisor:** Zack DeSario
-**Team Members:** Faizan Khan, Jessica Chen, and Oleskii Sudarin
+**Team Members:** Faizan Khan, Jessica Chen, and Oleksii Sudarin 
 ### All Completed Tasks 
 - [x] **Final Project Pitch**
     - Slack/Discord Finder and Stats App
