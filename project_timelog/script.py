@@ -1,13 +1,12 @@
 import pandas as pd
 import datetime
 
-file = "Destiny_Rosado_Salcedo CISC 4900 Timelog Template - Timelog.csv"
+file = "/Users/destinyrosado/cisc4900_project/project_timelog/Destiny_Rosado_Salcedo CISC 4900 Timelog Template - Timelog.csv"
 options = ['Research, Training, Learning', 'Coding', 'Team Discussion', 'Testing & Debugging', 'Other', 'Supervisor Discussion', 'Design', 'Documentation']
 
-def update():
-    CSV_PATH = "/Users/destinyrosado/cisc4900_project/project_timelog/Destiny_Rosado_Salcedo CISC 4900 Timelog Template - Timelog.csv"
-
-    df = pd.read_csv(CSV_PATH)
+def update(file):
+   
+    df = pd.read_csv(file)
 
     print("\nNew Week:")
     date = input("Date (MM/DD/YY or press Enter for today): ")
@@ -41,7 +40,7 @@ def update():
     df = pd.concat([df, pd.DataFrame([new_entry])], ignore_index=True)
 
 
-    df.to_csv(CSV_PATH, index=False)
+    df.to_csv(file, index=False)
     print("Saved.")
 
-update()
+update(file)
