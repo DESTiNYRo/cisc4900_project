@@ -5,6 +5,8 @@
 ### All Completed Tasks 
 - [x] **Final Project Pitch**
     - Slack/Discord Finder and Stats App
+- [x] **Slack Cluster Finder Repository**
+    - Created a shared repo amongst group
 - [x] **Weekly CTP Class**
     - Basic Pandas Introduction
     - Practiced read in csv files, looking at data and manipulating it
@@ -17,9 +19,8 @@
     - Talked about how to look for a project to do; data science good practices; etc
 
 In progress...
-- Role Declaration 
-- Breakdown of tasks
 - Database Selection
+- Touchbase
 
 
 
