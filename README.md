@@ -1,7 +1,7 @@
 # CISC 4900 Weekly Updates
 
 **Supervisor:** Zack DeSario
-**Team Members:** Faizan Khan, Jessica Chen, and Oleksii Sudarin 
+**Team Members:** Jessica Chen, Faizan Khan, Destiny Rosado Salcedo, Oleksii Sudarin
 **Dev Repo:** [Slack-Cluster-Finder](https://github.com/oleksiisud/slack-cluster-finder)
 ### All Completed Tasks 
 - [x] **Final Project Pitch**
