@@ -2,10 +2,11 @@
 
 # Members and Roles
 
-* **Destiny Rosado Salcedo** \- TBD  
-* **Faizan Khan** \- TBD  
-* **Jessica Chen** \- TBD  
-* **Oleksii Sudarin** \- TBD
+Roles Subject To Change
+* **Destiny Rosado Salcedo** \- Frontend Developer  
+* **Faizan Khan** \- Slackbot Developer
+* **Jessica Chen** \- Backend Developer  
+* **Oleksii Sudarin** \- Cluster Graph Developer
 
 # Brainstorm/Ideas
 
