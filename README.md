@@ -15,8 +15,7 @@
     - Vibe Coding Introduction
     - Practiced reading in csv files, looking at data and manipulating it
 - [x] **React Independent Learning**
-    - Spent some time watching introductory videos on machine learning
-    - Found some Github projects using data science and machine learning 
+    - Spent some time watching introductory videos on React framework
 - [x] **Database Independent Research**
     - Researched possible databases to use
 - [x] **Spoke with supervisor** 
