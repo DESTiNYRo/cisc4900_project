@@ -1,4 +1,22 @@
-# CISC 4900 Weekly Updates
+# Project Overview
+
+### Slack Cluster Finder ###
+
+A cluster graph visual search app for finding topic related messages for easier search for needed information.
+
+**Features** 
+
+- Queries  
+- Filters  
+- Dynamic Cluster Graph Visualization
+
+**Frameworks/Libraries (Tech Stack)**
+
+- SlackBot (TypeScript)  
+- Python (Plotly)  
+- Backend (Flask, FastAPI)  
+- Frontend (React)  
+- DiscordBot (Python/JavaScript)
 
 **Supervisor:** Zack DeSario
 
@@ -6,23 +24,23 @@
 
 **Dev Repo:** [Slack-Cluster-Finder](https://github.com/oleksiisud/slack-cluster-finder)
 
+
+# CISC 4900 Weekly Updates
+
 ### All Completed Tasks 
-- [x] **Final Project Pitch**
-    - Slack/Discord Finder and Stats App
-- [x] **Slack Cluster Finder Repository**
-    - Created a shared repo amongst group
-- [x] **Weekly CTP Class**
-    - Vibe Coding Introduction
-    - Practiced reading in csv files, looking at data and manipulating it
-- [x] **React Independent Learning**
-    - Spent some time watching introductory videos on React framework
-- [x] **Database Independent Research**
-    - Researched possible databases to use
+- [x] **Latent-Scope Demo**
+    - Created small cluster visualization using open source library [lantent-scope](https://enjalot.github.io/latent-scope/)
+- [x] **Frontend Folder**
+    - Pushed initial frontend folder in [Slack-Cluster-Finder](https://github.com/oleksiisud/slack-cluster-finder/tree/destiny-ros-sal-branch)
+- [x] **Logisitc Regression Research**
+    - Researched introductory machine learning
 - [x] **Spoke with supervisor** 
-    - Talked about how to look for a project to do; data science good practices; etc
+    - Talked about next steps in project; best practices; good examples of UI for data science; etc
+- [x] **Weekly CTP Class**
+    - Classification Introduction
+    - Practiced machine learning, explored how to train machines 
 
 In progress...
-- Database Selection
 - Touchbase 
 
 
