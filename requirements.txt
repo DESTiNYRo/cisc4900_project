@@ -1,7 +1,10 @@
-React + Vite
+react
 npm
 slack_sdk
 discord.py
 slack_bolt
 python3
 pandas
+plotly
+flask
+fastAPI
