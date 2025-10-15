@@ -1,0 +1,7 @@
+React + Vite
+npm
+slack_sdk
+discord.py
+slack_bolt
+python3
+pandas
