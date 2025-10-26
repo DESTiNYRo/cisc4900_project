@@ -13,7 +13,7 @@ def update(file):
     if not date.strip():
         date = datetime.now().strftime("%m/%d/%y")
 
-    duration = input("Duration (hours): ")
+    duration = float(input("Duration (hours): "))
     print("\nSelect a Category:")
     for i, option in enumerate(options, 1):
         print(f"  {i}. {option}")
