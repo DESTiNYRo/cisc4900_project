@@ -1,6 +1,6 @@
 # Project Overview
 
-### Slack Cluster Finder ###
+### Stellar-Search ###
 
 A cluster graph visual search app for finding topic related messages for easier search for needed information.
 
@@ -22,22 +22,19 @@ A cluster graph visual search app for finding topic related messages for easier 
 
 **Team Members:** Jessica Chen, Faizan Khan, Destiny Rosado Salcedo, Oleksii Sudarin, Eric Azayez
 
-**Dev Repo:** [Slack-Cluster-Finder](https://github.com/oleksiisud/slack-cluster-finder)
+**Dev Repo:** [Stellar-Seach](https://github.com/oleksiisud/slack-cluster-finder)
 
 
 # CISC 4900 Weekly Updates
 
 ### All Completed Tasks 
 - [x] **Frontend Folder**
-    - Functional landing page + home page of website [Slack-Cluster-Finder](https://github.com/oleksiisud/slack-cluster-finder/tree/destiny-ros-sal-branch)
-- [x] **HuggingFace Research**
-    - Researched introductory machine learning
-- [x] **Weekly CTP Class**
-    - Classification Introduction
-    - Practiced machine learning, explored how to train machines 
+    - Pull request for frontend for website [Stellar-Seach](https://github.com/oleksiisud/slack-cluster-finder/tree/destiny-ros-sal-branch)
+
 
 In progress...
-- Touchbase 
+- Deployment 
+- Presentation 
 
 
 
